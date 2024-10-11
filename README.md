@@ -35,7 +35,7 @@ Stable version - Use more time and times, the function remains stable<br>
 * Refer to the development document to understand the functions of the authorization code management server, write test tool, get the authorization code from the authorization code management server, and flash it to the camera's Flash
 
 ## Support
-Technical documentation: https://developer.en.jftech.com/ <br>
+Technical documentation: [https://developer.en.jftech.com/](https://docs.jftech.com/docs?menusId=82518bf6b9a64411bb61d109bcdbb6fa&siderId=20d777495bd84b069917bfa7c5c4cfac&lang=en) <br>
 Email: jf_ipc_sdk@jftech.com <br>
 
 ## License
